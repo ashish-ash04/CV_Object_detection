@@ -43,6 +43,6 @@ The 3 most used and known frameworks compatible with YOLO and the advantages and
 
 
 You can refer to the following links for better understanding :
-https://www.pyimagesearch.com/2018/11/12/yolo-object-detection-with-opencv/
-https://pysource.com/2019/06/27/yolo-object-detection-using-opencv-with-python/
-https://www.youtube.com/watch?v=b59xfUZZqJE&ab_channel=edureka%21
+- https://www.pyimagesearch.com/2018/11/12/yolo-object-detection-with-opencv/
+- https://pysource.com/2019/06/27/yolo-object-detection-using-opencv-with-python/
+- https://www.youtube.com/watch?v=b59xfUZZqJE&ab_channel=edureka%21
