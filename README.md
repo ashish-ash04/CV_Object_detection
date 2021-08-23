@@ -38,5 +38,6 @@ The 3 most used and known frameworks compatible with YOLO and the advantages and
    Advantage: It works without needing to install anything except opencv.
    Disadvantage: It only works with CPU, so you can’t get really high speed to process videos in real time.
    
- #YOLO WITH OPEN CV
+
+ YOLO with OpenCV is the best approach for beginners without any complex installations.
 
