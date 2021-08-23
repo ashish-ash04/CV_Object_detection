@@ -24,3 +24,19 @@ YOLO is a deep learning algorithm which came out in May 2016 and it became popul
 
 With YOLO we can detect objects at relatively high speed. With a GPU we would be able to process over 45 frames/second while with a CPU around 1 frame per second.
 
+YOLO is a deep learning algorithm, so it doesn’t need any installation, what we need instead is a deep learning framework to run the algorithm.
+
+The 3 most used and known frameworks compatible with YOLO and the advantages and disadvantages of each one are mentioned below :
+
+1. Darknet : It is the framework built from the developer of YOLO and made specifically for YOLO.
+   Advantage: It is fast, it can work with GPU or CPU
+   Disadvantage: It olny works with Linux OS
+2. Darkflow: It is the adaptation of darknet to Tensorflow (another deep leanring framework).
+   Advantage: It is fast, it can work with GPU or CPU, and it’s also compatible with Linux, Windows and Mac.
+   Disadvantage: The installation is complex, especially on windows
+3. Opencv: Opencv has a deep learning framework that works with YOLO. Just make sure you have opencv 3.4.2 at least.
+   Advantage: It works without needing to install anything except opencv.
+   Disadvantage: It only works with CPU, so you can’t get really high speed to process videos in real time.
+   
+ #YOLO WITH OPEN CV
+
