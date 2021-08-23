@@ -41,3 +41,7 @@ The 3 most used and known frameworks compatible with YOLO and the advantages and
 
  YOLO with OpenCV is the best approach for beginners without any complex installations.
 
+
+You can refer to the following links for better understanding :
+https://www.pyimagesearch.com/2018/11/12/yolo-object-detection-with-opencv/
+https://pysource.com/2019/06/27/yolo-object-detection-using-opencv-with-python/
